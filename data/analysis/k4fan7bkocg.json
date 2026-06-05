@@ -1,0 +1,219 @@
+{
+  "video_id": "k4fAn7BKOCg",
+  "commentator": null,
+  "total_words": 18528,
+  "unique_words": 1767,
+  "avg_words_per_segment": 5.97,
+  "avg_sentence_length": 11.04,
+  "filler_density": 0.0233,
+  "less_is_more_score": 75.35,
+  "top_words": [
+    [
+      "but",
+      206
+    ],
+    [
+      "there",
+      195
+    ],
+    [
+      "croatia",
+      168
+    ],
+    [
+      "belconnen",
+      166
+    ],
+    [
+      "ball",
+      139
+    ],
+    [
+      "back",
+      137
+    ],
+    [
+      "uh",
+      136
+    ],
+    [
+      "up",
+      128
+    ],
+    [
+      "from",
+      120
+    ],
+    [
+      "have",
+      115
+    ],
+    [
+      "now",
+      114
+    ],
+    [
+      "not",
+      107
+    ],
+    [
+      "see",
+      104
+    ],
+    [
+      "just",
+      101
+    ],
+    [
+      "james",
+      94
+    ]
+  ],
+  "top_phrases": [
+    [
+      "canberra croatia",
+      51
+    ],
+    [
+      "little bit",
+      43
+    ],
+    [
+      "can see",
+      27
+    ],
+    [
+      "so far",
+      25
+    ],
+    [
+      "there from",
+      21
+    ],
+    [
+      "not quite",
+      20
+    ],
+    [
+      "belconnen united",
+      19
+    ],
+    [
+      "out wide",
+      18
+    ],
+    [
+      "we've got",
+      17
+    ],
+    [
+      "thomas james",
+      17
+    ],
+    [
+      "can't quite",
+      16
+    ],
+    [
+      "first half",
+      15
+    ],
+    [
+      "free kick",
+      14
+    ],
+    [
+      "hand side",
+      13
+    ],
+    [
+      "very much",
+      12
+    ]
+  ],
+  "top_verbs": [
+    [
+      "going",
+      61
+    ],
+    [
+      "looking",
+      50
+    ],
+    [
+      "coming",
+      32
+    ],
+    [
+      "bring",
+      26
+    ],
+    [
+      "playing",
+      23
+    ],
+    [
+      "doing",
+      19
+    ],
+    [
+      "being",
+      18
+    ],
+    [
+      "having",
+      17
+    ],
+    [
+      "something",
+      17
+    ],
+    [
+      "getting",
+      17
+    ]
+  ],
+  "top_adjectives": [
+    [
+      "beautiful",
+      23
+    ],
+    [
+      "excellent",
+      10
+    ],
+    [
+      "quick",
+      10
+    ],
+    [
+      "give",
+      9
+    ],
+    [
+      "clean",
+      9
+    ],
+    [
+      "dangerous",
+      6
+    ],
+    [
+      "wonderful",
+      5
+    ],
+    [
+      "aggressive",
+      4
+    ],
+    [
+      "brilliant",
+      2
+    ],
+    [
+      "speculative",
+      2
+    ]
+  ],
+  "created_at": "2026-06-02T13:12:30.478476+00:00"
+}

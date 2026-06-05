@@ -1,0 +1,25 @@
+[project]
+name = "commentary-suite"
+version = "0.1.0"
+description = "Tools to become a better football commentator"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.7.0",
+    "rich>=13.7.1",
+    "typer>=0.12.3",
+    "youtube-transcript-api>=0.6.2",
+]
+
+[project.scripts]
+commentary = "commentary_suite.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

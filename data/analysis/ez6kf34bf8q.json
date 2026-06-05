@@ -1,0 +1,219 @@
+{
+  "video_id": "Ez6KF34bf8Q",
+  "commentator": null,
+  "total_words": 15439,
+  "unique_words": 1759,
+  "avg_words_per_segment": 5.87,
+  "avg_sentence_length": 10.97,
+  "filler_density": 0.0163,
+  "less_is_more_score": 76.74,
+  "top_words": [
+    [
+      "liverpool",
+      153
+    ],
+    [
+      "it's",
+      150
+    ],
+    [
+      "he's",
+      142
+    ],
+    [
+      "real",
+      132
+    ],
+    [
+      "there",
+      125
+    ],
+    [
+      "madrid",
+      122
+    ],
+    [
+      "but",
+      114
+    ],
+    [
+      "well",
+      104
+    ],
+    [
+      "have",
+      95
+    ],
+    [
+      "ball",
+      93
+    ],
+    [
+      "from",
+      92
+    ],
+    [
+      "his",
+      91
+    ],
+    [
+      "got",
+      91
+    ],
+    [
+      "back",
+      84
+    ],
+    [
+      "going",
+      82
+    ]
+  ],
+  "top_phrases": [
+    [
+      "real madrid",
+      113
+    ],
+    [
+      "champions league",
+      46
+    ],
+    [
+      "vin cius",
+      44
+    ],
+    [
+      "alexander arnold",
+      40
+    ],
+    [
+      "they've got",
+      27
+    ],
+    [
+      "cius j",
+      22
+    ],
+    [
+      "vin cius j",
+      22
+    ],
+    [
+      "second half",
+      21
+    ],
+    [
+      "milit o",
+      20
+    ],
+    [
+      "j nior",
+      20
+    ],
+    [
+      "dani carvajal",
+      20
+    ],
+    [
+      "he's been",
+      20
+    ],
+    [
+      "cius j nior",
+      20
+    ],
+    [
+      "league final",
+      18
+    ],
+    [
+      "toni kroos",
+      18
+    ]
+  ],
+  "top_verbs": [
+    [
+      "going",
+      82
+    ],
+    [
+      "coming",
+      16
+    ],
+    [
+      "defending",
+      15
+    ],
+    [
+      "outstanding",
+      12
+    ],
+    [
+      "trying",
+      12
+    ],
+    [
+      "wins",
+      11
+    ],
+    [
+      "looking",
+      10
+    ],
+    [
+      "playing",
+      10
+    ],
+    [
+      "evening",
+      9
+    ],
+    [
+      "winning",
+      9
+    ]
+  ],
+  "top_adjectives": [
+    [
+      "brilliant",
+      14
+    ],
+    [
+      "give",
+      9
+    ],
+    [
+      "excellent",
+      8
+    ],
+    [
+      "defensive",
+      7
+    ],
+    [
+      "quick",
+      7
+    ],
+    [
+      "wonderful",
+      5
+    ],
+    [
+      "five",
+      4
+    ],
+    [
+      "aggressive",
+      3
+    ],
+    [
+      "dangerous",
+      3
+    ],
+    [
+      "effective",
+      3
+    ]
+  ],
+  "created_at": "2026-06-02T13:19:20.446317+00:00"
+}
